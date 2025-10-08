@@ -1,6 +1,6 @@
 # Virtual Reality and Cognitive Rehabilitation: Systematic Literature Review
 
-This project is a **systematic literature review investigating how effective Virtual Reality (VR) is as a tool for cognitive and motor rehabilitation in patients with Traumatic Brain Injury (TBI). The project follows three key stages:
+This project is a **systematic literature review** investigating how effective Virtual Reality (VR) is as a tool for cognitive and motor rehabilitation in patients with Traumatic Brain Injury (TBI). The project follows three key stages:
 
 **Protocol Development:**
 
